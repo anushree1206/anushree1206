@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi there 👋 I'm Anushree!
 ### 🚀 About Me
 - 🎓 Engineering student passionate about software development.
-- 🌱 Currently learning DSA in C++ and  Artificial Intelligence/Machine Learning.
+- 🌱 Currently learning DSA in C++ and exploring Artificial Intelligence/Machine Learning.
 - 🔭 Working on my Secure Web Framework Project to simplify web development with built-in security features.
 
 ### 💼 Skills
