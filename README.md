@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 ## Hi there 👋 I'm Anushree!
 ### 🚀 About Me
 - 🎓 Engineering student passionate about software development.
-- 🌱 Currently learning DSA in C++ and exploring Artificial Intelligence/Machine Learning.
+- 🌱 Currently learning DSA in C++ and exploring secure Web frameworks.
 - 🔭 Working on my Secure Web Framework Project to simplify web development with built-in security features.
 
 ### 💼 Skills
-- Programming Languages: C++, Java, Python, JavaScript
-- Web Development: HTML, CSS, Bootstrap, JavaScript
+- Programming Languages: C++, Java, Python,C
+- Web Development: HTML, CSS, Tailwindcss, JavaScript
 - Frameworks: Django, Node.js,react js
 
 ### 📫 Let's Connect
