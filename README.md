@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 - 🎓 Engineering student passionate about software development.
 - 🌱 Currently learning DSA in C++ and exploring secure Web frameworks.
-- 🔭 Working on my Web Framework Project to simplify web development with built-in security features.
+- 🔭 Working on my Web Framework Projects to simplify web development with built-in security features.
 
 ### 💼 Skills
 - Programming Languages: C++, Java, Python,C
