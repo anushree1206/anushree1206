@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋 I'm Anushree!
 ### 🚀 About Me
-- 🎓 Engineering student passionate about software development.
-- 🌱 Currently learning DSA in C++ and exploring secure Web frameworks.
-- 🔭 Working on my Web Framework Projects to simplify web development with built-in security features.
+- 🎓 I'm an engineering student passionate about building impactful software solutions.
+- 🌱 Currently learning Data Structures and Algorithms (DSA) in C++, and diving deeper into secure and scalable web frameworks.
+- 🔬 Exploring AI/ML and data-driven applications that solve real-world problems.
 
 ### 💼 Skills
 - Programming Languages: C++, Java, Python,C
